@@ -3,6 +3,11 @@ public class Demo{
 		System.out.println(" Hello Git !!");
 		System.out.println(" Hello Git !!");
 		String name = "TangPing";
+		String name = "TangPing";
+		String name = "TangPing";
+		String name = "TangPing";
+		String name = "TangPing";
+		String name = "TangPing";
 		int age = 23;
 	}
 }
