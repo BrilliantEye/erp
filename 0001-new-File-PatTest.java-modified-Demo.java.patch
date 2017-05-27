@@ -1,0 +1,37 @@
+From ec526919964ee7c6baa291ca47a22c06d5c3bf0a Mon Sep 17 00:00:00 2001
+From: PingTang <brillianteyet@gmail.com>
+Date: Sat, 27 May 2017 09:32:00 +0800
+Subject: [PATCH] new File PatTest.java , modified Demo.java
+
+---
+ Demo.java    | 1 +
+ PatTest.java | 4 ++++
+ 2 files changed, 5 insertions(+)
+ create mode 100644 PatTest.java
+
+diff --git a/Demo.java b/Demo.java
+index 0c10a14..809334a 100644
+--- a/Demo.java
++++ b/Demo.java
+@@ -8,5 +8,6 @@ public class Demo{
+ 		String change = "hello hello hello ";
+ 		String change = "hello hello hello ";
+ 		String change = "hello hello hello ";
++		
+ 	}
+ }
+\ No newline at end of file
+diff --git a/PatTest.java b/PatTest.java
+new file mode 100644
+index 0000000..ac1aae3
+--- /dev/null
++++ b/PatTest.java
+@@ -0,0 +1,4 @@
++public class PatTest{
++	String pname = "patTest";
++	int pno = 20;
++}
+\ No newline at end of file
+-- 
+2.6.2.windows.1
+
