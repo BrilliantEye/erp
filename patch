@@ -1,0 +1,23 @@
+diff --git a/Demo.java b/Demo.java
+index c2f809f..7baa4a1 100644
+--- a/Demo.java
++++ b/Demo.java
+@@ -2,5 +2,7 @@ public class Demo{
+ 	public static void main(String[] args) {
+ 		System.out.println(" Hello Git !!");
+ 		System.out.println(" Hello Git !!");
++		String name = "TangPing";
++		int age = 23;
+ 	}
+ }
+\ No newline at end of file
+diff --git a/Feature.java b/Feature.java
+new file mode 100644
+index 0000000..90442af
+--- /dev/null
++++ b/Feature.java
+@@ -0,0 +1,3 @@
++public class Feature{
++	String feature = "this is test";
++}
+\ No newline at end of file
