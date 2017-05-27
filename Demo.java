@@ -4,6 +4,7 @@ public class Demo{
 		System.out.println(" Hello Git !!");
 		String name = "tangPing";
 		String x = "hello";
+		String x = "world";
 		int age = 23;
 	}
 }
